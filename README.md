@@ -8,4 +8,4 @@
 
 ## Descrição
 
-Este repositório contém exercícios relacionados à unidade curricular de **Processamento de Linguagens** com recurso à linguagem **Python**
+Este repositório contém exercícios relacionados à unidade curricular de **Processamento de Linguagens** com recurso à linguagem **Python**.
