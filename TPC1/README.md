@@ -17,8 +17,8 @@
 
 ## Compilação
 - **Input:** *python3 main.py < input.txt*
-- **Output:** O *output* é exibido no *stdout* onde é comunicada cada vez que o somador é ligado/desligado e a soma total cada vez que é encontrado o carácter "=".
+- **Output:** O *output* é exibido no *stdout* onde é comunicada cada vez que o somador é ligado/desligado, a soma total cada vez que é encontrado o carácter "=" e quando é atinjido o fim do ficheiro de *input*.
 
 ## Resolução do problema
 - **Módulos:**
-    - **main.py:** Módulo responsável por fazer o *parser* do conteúdo do ficheiro de *input* e apresentar o *output* ao utilizador.
+    - **main.py:** Módulo responsável por obter os dados do ficheiro de *input* e apresentar o *output* ao utilizador.

@@ -30,7 +30,7 @@ class Main():
 
                 elif catch.lastgroup == 'off':
                     self.switch = False
-                    print(f"Switch OFF!")
+                    print(f"Switch OFF!\n")
 
                 elif catch.lastgroup == 'digits' and self.switch:
                     self.totalSum += int(catch.group('digits'))
