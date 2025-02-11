@@ -2,9 +2,9 @@
 
 ## Aluno
 
-- Nome: João Tomás Gonçalves de Sousa Carneiro Valente
-- Número: A100540
-- E-mail: a100540@alunos.uminho.pt
+- **Nome:** João Tomás Gonçalves de Sousa Carneiro Valente
+- **Número:** A100540
+- **E-mail:** a100540@alunos.uminho.pt
 
 ## Descrição
 
