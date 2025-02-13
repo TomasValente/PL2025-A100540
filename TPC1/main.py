@@ -12,7 +12,7 @@ class Main():
     def somadorOnOff(self):
         on = '[Oo][Nn]'
         off = '[Oo][Ff][Ff]'
-        digits = '\d+'
+        digits = '[0-9]+'
         result = '='
 
         for line in self.data:
