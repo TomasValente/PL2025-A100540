@@ -1,0 +1,26 @@
+[
+    {
+        "cod": "A23",
+        "nome": "Água 0.5L",
+        "quantidade": 7,
+        "preco": 0.7
+    },
+    {
+        "cod": "B12",
+        "nome": "Refrigerante 0.33L",
+        "quantidade": 5,
+        "preco": 1.2
+    },
+    {
+        "cod": "C34",
+        "nome": "Barra de Chocolate",
+        "quantidade": 10,
+        "preco": 1.5
+    },
+    {
+        "cod": "D56",
+        "nome": "Pacote de Batatas",
+        "quantidade": 4,
+        "preco": 1.0
+    }
+]
